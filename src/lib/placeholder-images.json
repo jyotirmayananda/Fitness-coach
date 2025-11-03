@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A person doing yoga at sunrise",
+      "imageUrl": "https://images.unsplash.com/photo-1634276702998-afbdaae66581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmaXRuZXNzJTIwc3VucmlzZXxlbnwwfHx8fDE3NjIwNDMzMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness sunrise"
+    }
+  ]
+}
